@@ -1,1 +1,1 @@
-# solid-tribble
+my-project
